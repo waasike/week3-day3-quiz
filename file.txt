@@ -1,0 +1,8 @@
+Hello,
+My name is Mitchelle Wasike. I am 18 years old, a current learner at Power Learn Project.
+I am very exicted to be a part of this great journey towards success in the tech field.
+Here is a list of modules offered at Power Learn:
+1) Python Programming
+2) Dart Programming
+3) Database Programming
+4) Web Technology 
